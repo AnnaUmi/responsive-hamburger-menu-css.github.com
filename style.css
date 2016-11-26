@@ -106,7 +106,12 @@ body {
 .main-menu ul li a:hover{
 	background-color: #8a3c18;
 }
-
+p{
+	text-align: center;
+	color: #fff;
+	font-size: 1.1em;
+	margin-top: 1.5em;
+}
 @media(max-width: 600px){
 	#menu-wrap{
 		display: block;
