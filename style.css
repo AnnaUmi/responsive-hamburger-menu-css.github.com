@@ -116,6 +116,9 @@ p{
 	#menu-wrap{
 		display: block;
 	}
+	p{
+		margin-top: 3em;
+	}
 	.main-menu{
 		display: none;
 	}
