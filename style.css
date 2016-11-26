@@ -117,7 +117,7 @@ p{
 		display: block;
 	}
 	p{
-		margin-top: 3.5em;
+		display: none;
 	}
 	.main-menu{
 		display: none;
